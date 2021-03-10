@@ -1,0 +1,13 @@
+C:\Users\psrat\source\repos\CsvTask\CsvTask\bin\Debug\netcoreapp3.1\CsvTask.exe
+C:\Users\psrat\source\repos\CsvTask\CsvTask\bin\Debug\netcoreapp3.1\CsvTask.deps.json
+C:\Users\psrat\source\repos\CsvTask\CsvTask\bin\Debug\netcoreapp3.1\CsvTask.runtimeconfig.json
+C:\Users\psrat\source\repos\CsvTask\CsvTask\bin\Debug\netcoreapp3.1\CsvTask.runtimeconfig.dev.json
+C:\Users\psrat\source\repos\CsvTask\CsvTask\bin\Debug\netcoreapp3.1\CsvTask.dll
+C:\Users\psrat\source\repos\CsvTask\CsvTask\bin\Debug\netcoreapp3.1\CsvTask.pdb
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.csprojAssemblyReference.cache
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.AssemblyInfoInputs.cache
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.AssemblyInfo.cs
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.csproj.CoreCompileInputs.cache
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.dll
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.pdb
+C:\Users\psrat\source\repos\CsvTask\CsvTask\obj\Debug\netcoreapp3.1\CsvTask.genruntimeconfig.cache

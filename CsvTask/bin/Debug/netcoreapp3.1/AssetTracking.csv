@@ -1,0 +1,80 @@
+Device Name,Device Model,OS Version,OS Type,Battery Percent,Battery State,Free Storage Memory,Free Program Memory,Scheduled Jobs Count,Inprogress Jobs Count,Failed Jobs Count,Deployed Jobs Count
+-----------,------------,----------,-------,---------------,-------------,-------------------,-------------------,--------------------,---------------------,-----------------,-------------------
+offlien linux,300E4Z/300E5Z/300E7Z (version: 0.1),Ubuntu 20.04.1 LTS,Linux,100,Charging,87,28,2,0,0,0
+super12636man,SM-A510F,MARSHMALLOW,Android,98,Normal,79,25,0,0,0,33
+Client12412,Nokia 3.1 Plus,ANDROID 10,Android,76,Normal,92,53,4,0,0,0
+Test11074QA,itel L5002,N/A,Android,N/A,N/A,N/A,N/A,5,0,0,0
+Test11086QA,V2025,ANDROID 11,Android,100,Charging,94,64,5,0,0,0
+ip-172-31-28-37,HVM domU (version: 4.2.amazon),Ubuntu 18.04.5 LTS,Linux,-1,Unknown,80,51,2,0,0,0
+Unknown,RMX1971,ANDROID 10,Android,74,Normal,71,47,5,0,0,0
+Test 42gears,moto g(7),ANDROID 10,Android,37,Normal,93,53,4,0,0,2
+Client12376,SM-J810G,PIE,Android,100,Charging,92,50,5,0,0,0
+bsk,Moto G (5) Plus,OREO,Android,89,Charging,50,74,5,0,0,0
+Test10760QA,Lenovo TB3-710F,LOLLIPOP,Android,33,Charging,19,28,4,0,0,0
+Test10793QA,Lenovo PB-6505M,PIE,Android,99,Normal,91,50,4,0,0,0
+Lenovo,Lenovo A2010-a,LOLLIPOP,Android,100,Charging,45,30,4,0,0,0
+Test11028,XT1706,MARSHMALLOW,Android,100,Charging,59,51,4,0,0,0
+72_Test_123,SM-M515F,ANDROID 10,Android,52,Normal,76,37,4,0,0,0
+Android,vivo 1851,PIE,Android,17,Normal,15,29,0,0,0,3
+Mnix 1,Mnix,ICE CREAM SANDWICH,Android,14,Normal,58,36,7,0,0,0
+Fedora VM sesanka,Virtual Machine (version: 7.0),Fedora 32,Linux,-1,Unknown,55,66,5,0,0,0
+redhat VM sesanka,Virtual Machine (version: 7.0),Red Hat Enterprise Linux 8.2,Linux,-1,Unknown,75,32,0,0,0,1
+Ubuntu 18.04,Vostro 3446 (version: Not Specified),Ubuntu 18.04.5 LTS,Linux,100,Charging,92,12,3,0,0,1
+super12642man,Lenovo TB-X605L,PIE,Android,80,Normal,85,47,0,0,0,6
+one power,motorola one power,ANDROID 10,Android,30,Charging,25,35,3,0,2,4
+Reg12631MDM,SM-A217F,ANDROID 10,Android,73,Normal,90,56,0,0,0,60
+namra-VirtualBox,VirtualBox (version: 1.2),Ubuntu 20.04.2 LTS,Linux,75,Charging,59,38,0,0,0,7
+Reg12632MDM,Nokia 3.1 Plus,ANDROID 10,Android,36,Normal,87,56,0,1,0,10
+Reg12635MDM,SM-G610F,OREO,Android,66,Normal,11,37,0,0,0,3
+Sarthak,Lenovo TB-X705L,OREO,Android,71,Normal,77,46,0,1,0,11
+DESKTOP-MCJ8BM3,Inspiron 5577,N/A,Windows,N/A,N/A,N/A,N/A,2,0,0,0
+ID-be59d348-a8af-4a66-a554-adbf0bd24c21,Mnix,ICE CREAM SANDWICH,Android,22,Normal,58,36,4,0,0,0
+ID-865684c9-b4ca-446c-93ef-2960e97d0a30,Mnix,ICE CREAM SANDWICH,Android,22,Normal,58,36,4,0,0,0
+ID-ba67aac3-3c7a-4600-87a0-0161769f5c71,Mnix,ICE CREAM SANDWICH,Android,8,Normal,58,36,4,0,0,0
+192.168.100.10,V504730,MARSHMALLOW,Android,32,Normal,92,65,4,0,0,0
+192.168.43.152,XT1706,MARSHMALLOW,Android,78,Normal,64,37,4,0,0,0
+don&#39;t test,CPH1859,PIE,Android,27,Normal,93,57,4,0,0,0
+192.168.1.101,Lenovo TB-8505F,PIE,Android,1,Charging,81,52,4,0,0,0
+192.168.1.101,Lenovo TB-8505F,PIE,Android,16,Charging,64,38,4,0,0,0
+25.6.99.110,GM1901,ANDROID 10,Android,82,Normal,66,20,4,0,0,0
+192.168.0.124,GM1901,ANDROID 10,Android,28,Normal,69,21,4,0,0,0
+192.168.43.1,vivo 1726,OREO,Android,16,Normal,63,41,4,0,0,0
+192.168.18.13,XT1706,MARSHMALLOW,Android,79,Normal,58,34,4,0,0,0
+Test11805QA,XT1562,NOUGAT,Android,28,Normal,82,58,4,0,0,0
+Test12060QA,Redmi 5A,NOUGAT,Android,97,Normal,30,31,4,0,0,0
+Device12200Test,Android SDK built for x86,MARSHMALLOW,Android,100,Charging,54,73,4,0,0,0
+Device12258Test,ONEPLUS A6000,ANDROID 10,Android,39,Normal,17,26,4,0,0,0
+Device12278Test,HD1901,N/A,Android,N/A,N/A,N/A,N/A,4,0,0,0
+Device12313Test,Android SDK built for x86_64,ANDROID 10,Android,100,Normal,84,30,4,0,0,0
+Client12386,Joya Touch A6,NOUGAT,Android,84,Normal,92,66,4,0,0,0
+Client12388,Redmi 4,NOUGAT,Android,49,Normal,75,26,4,0,0,0
+Client12398,RMX2001,ANDROID 10,Android,25,Normal,1,47,4,0,0,0
+Client12414,RMX1971,ANDROID 10,Android,63,Normal,69,44,4,0,0,0
+Client12415,SM-T295,ANDROID 10,Android,82,Normal,95,41,4,0,0,0
+Client12417,Nokia 2.3,ANDROID 10,Android,12,Normal,96,50,4,0,0,0
+Client12424,MEMOR 10,OREO,Android,81,Normal,97,57,4,0,0,0
+Client12425,Joya Touch A6,NOUGAT,Android,70,Charging,83,60,4,0,0,0
+Client12427,JSN-L42,ANDROID 10,Android,58,Normal,18,49,4,0,0,3
+Client12428,SM-J600G,PIE,Android,49,Normal,97,57,4,0,1,0
+20000445566,Android SDK built for x86_64,OREO,Android,100,Normal,90,50,0,0,0,4
+Client12460,SM-G920F,NOUGAT,Android,100,Charging,85,41,4,0,0,0
+Cosmo1,Nokia 3.1 Plus,ANDROID 10,Android,55,Normal,77,44,4,0,0,0
+Client12463,Lenovo TB3-730X,MARSHMALLOW,Android,48,Charging,58,45,4,0,0,0
+Client12464,8088M,PIE,Android,98,Normal,96,65,4,0,0,0
+Client12465,SM-G610F,OREO,Android,98,Normal,78,44,4,0,0,0
+iPhone7,iPhone 7 32 GB Black,13.3.1,iOS,71,N/A,63,N/A,1,0,0,2
+yaswanth-VirtualBox,VirtualBox (version: 1.2),Ubuntu 20.04.2 LTS,Linux,89,Charging,6,16,1,0,0,0
+Client12490,Lenovo TB3-710I,LOLLIPOP,Android,84,Charging,25,45,4,0,0,0
+Client12509,XT1706,MARSHMALLOW,Android,100,Charging,49,46,4,0,0,0
+DESKTOP-8HGJ5BU,VirtualBox,Windows 10 Pro,Windows,255,N/A,N/A,N/A,1,0,0,6
+Client0001,SM-M015G,ANDROID 10,Android,100,Normal,73,47,1,1,2,65
+A21,SM-A217F,ANDROID 10,Android,70,Normal,85,45,1,6,0,2
+super12639man,SM-T365,LOLLIPOP,Android,72,Charging,53,33,1,0,0,2
+4.132E+14,SM-G900F,KITKAT,Android,100,Charging,96,77,1,0,0,1
+Reg12624MDM,Mi A3,ANDROID 10,Android,83,Normal,17,28,0,0,0,6
+Samsung Chromebook 3,Samsung Chromebook 3,N/A,ChromeOS,-1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Reg12625MDM,SM-A217F,ANDROID 10,Android,79,Normal,87,50,0,0,0,7
+QA iPad,iPad,14.3,iOS,56,N/A,75,N/A,0,0,0,2
+Reg12629MDM,SM-A515F,ANDROID 10,Android,97,Normal,95,50,0,0,0,2
+Reg12638MDM,SM-T285YD,LOLLIPOP,Android,69,Normal,44,32,0,0,0,14
+Reg12640MDM,SQ51C,NOUGAT,Android,70,Normal,63,48,1,0,0,2
